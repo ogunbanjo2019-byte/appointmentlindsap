@@ -123,7 +123,7 @@ const chatResponses = {
   services: 'We offer Swedish Massage, Deep Tissue Therapy, Hot Stone & Hot Tub Sessions, Relaxing Body Treatments, Recovery Massage, and Customized Treatments.',
   prices: 'Our rates are $150 for 30 minutes, $250 for 1 hour, $300 for 2 hours, $400 for 3 hours, and $700 for an extended session.',
   booking: 'You can request an appointment using our short booking form. Choose your service, duration, preferred date and time, then click Submit. Your request will be sent automatically to Linda Spa.',
-  contact: 'You can call or text Linda Spa at 862-251-5847, or send a message through the Contact section. We reply through email.',
+  contact: 'You can call or text Linda Spa at +1 (902) 277-4507, or send a message through the Contact section. We reply through email.',
   payment: 'Payment options are discussed after your booking request is reviewed. We do not collect payment credentials through this website.',
   unknown: 'I’d be happy to help you with that. Please send your message through our contact form and our team will review it and reply through email.'
 };
